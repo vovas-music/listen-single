@@ -7,7 +7,7 @@ On the site: https://vovazakharov.com/music/listen-single
 ## Files
 
 - `listen-single_mix.mp3` — the mix, unmastered: what the master was made from.
-- `listen-single.mp3` — the master, as the site plays it.
+- `за_обложкой - Послушайте (Single Version).mp3` — the master, as the site plays it.
 - `listen-single.mp4` — the music video.
 - `mastering/` — the script that made the master: `master.py`, the `spectrum.py` it imports, and their `requirements.txt`.
 
